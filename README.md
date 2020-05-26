@@ -19,4 +19,4 @@ $ deno run -A --reload ./index.ts
 
 ## 笔记
 
-* [国酱的 Deno 学习笔记](https://www.yuque.com/zg_zhang/deno)
+* [Deno 小小实战 Rest Todo API](https://www.yuque.com/zg_zhang/deno/adp16x)
